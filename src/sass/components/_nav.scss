@@ -1,0 +1,31 @@
+nav {
+  background-color: #fff;
+
+  .brand-name {
+    width: 30%;
+    max-width: 120px;
+  }
+
+  .switch-wrapper {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    position: absolute;
+    right: 1.5rem;
+
+    img {
+      width: 18px;
+    }
+
+    span {
+      color: #6f6f6f;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+}

@@ -1,0 +1,24 @@
+/*!
+    Theme Name: Planet_heroes
+    Description: Super fast static website
+    Version: 1.0.0
+    Author: Ryszard Waniek
+    Author URI: 
+*/
+
+// Base
+
+@import "base/variables";
+@import "base/reset";
+@import "base/layout";
+@import "base/typography";
+@import "base/utilities";
+// @import "base/animation";
+
+// Components
+
+@import "components/nav";
+@import "components/custom-list";
+@import "components/parallax";
+@import "components/buttons";
+// @import "components/card";

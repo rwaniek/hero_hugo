@@ -1,0 +1,44 @@
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  font-weight: 400;
+  border: 1px solid transparent;
+  padding: .75rem 1.25rem;
+  font-size: 1.2rem;
+  line-height: 1.125;
+  transition: all 250ms cubic-bezier(.27,.01,.38,1.06);
+
+  &:not(:disabled):not(.disabled) {
+    cursor: pointer;
+  }
+
+  &-primary {
+   
+    color: #fff;
+    background-color: rgb(23, 159, 251);
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 1px 4px 0px;
+
+    &:hover {
+      background-color: $accent-color;
+    }
+  
+  }
+  
+  &-switch {
+    border: none;
+    background: none;
+    -webkit-appearance: none;
+
+    svg {
+      width: 24px;
+    }
+  }
+}
+
+
+  

@@ -1,0 +1,44 @@
+.w-50 {
+  width: 50% !important;
+}
+
+.w-sm-50 {
+  @media (min-width: 576px) {
+    width: 50% !important;
+  }
+}
+
+.w-80 {
+  width: 80% !important;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.text-accent {
+  color: $accent-color !important;
+}
+
+.text-primary {
+  color: $primary-color !important;
+}
+a.text-primary:hover {
+  color: $primary-color !important;
+}
+a.text-accent:hover {
+  color: $accent-color;
+}
+
+.flex-main {
+  flex-basis: 20rem;
+  flex-grow: 1;
+}
+
+.z-index-1 {
+  z-index: 1;
+}
