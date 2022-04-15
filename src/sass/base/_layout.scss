@@ -75,6 +75,16 @@ header {
       width: 165px;
     }
   }
+
+  &--illustration {
+    order: 2;
+
+    @media (min-width: 768px) {
+      opacity: 40%;
+      order: 0;
+      margin-top: calc(-100px + 5vw);
+    }
+  }
 }
 
 main {
@@ -145,31 +155,4 @@ main {
     }
   }
 
-}
-
-
-footer {
-  color: #fff;
-
-  .partners {
-    @media(min-width: 576px) {
-      min-height: 300px;
-    }
-    
-    background-color: rgba(0, 0, 0, 0.4);
-
-    img {
-      width: 30%;
-      max-height: calc(2rem + 1vw);
-    }
-  }
-
-  a {
-    font-size: 0.8rem;
-    color: #fff;
-  }
-
-  .copyright {
-    padding-bottom: 100px;
-  }
 }

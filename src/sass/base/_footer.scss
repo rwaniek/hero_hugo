@@ -1,0 +1,30 @@
+footer {
+  color: #fff;
+
+  .partners {
+    @media(min-width: 576px) {
+      min-height: 300px;
+    }
+    
+    background-color: rgba(0, 0, 0, 0.4);
+
+    div > * {
+      flex-basis: 130px;
+      margin-bottom: 3rem;
+      max-height: calc(2rem + 1vw);
+
+      @media (min-width: 768px) {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  a {
+    font-size: 0.8rem;
+    color: #fff;
+  }
+
+  .copyright {
+    padding-bottom: 100px;
+  }
+}

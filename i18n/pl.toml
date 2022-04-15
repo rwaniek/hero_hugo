@@ -1,0 +1,74 @@
+# Polish
+#
+
+# Hero slogan
+[slogan]
+  other = """
+  Ratujesz uchodźców?<br>
+  Sam potrzebujesz pomocy?
+  """
+[tagline]
+  other = 'Pierwsza platforma łącząca potrzebujących z ludźmi z całego świata, którzy chcą i mogą ich wspierać!'
+[patronat]
+  other = "Patronat akcji"
+[btnLeft]
+  other = 'Chcę pomóc'
+[btnLeftTagline]
+  other = 'Zobacz, co jest potrzebne lub prześlij dotację pieniężną.'
+[btnRight]
+  other = 'Potrzebuję pomocy'
+[btnRightTagline]
+  other = 'Stwórz swoją zbiórkę i uzyskaj od innych wsparcie rzeczowe lub&nbsp;finansowe.'
+[partners]
+  other = 'Partnerzy akcji'
+# Helping section
+[helping]
+  [helping.heading]
+    other = 'Jak pomagać? 4 kroki:'
+  [helping.list]
+    other = """
+    <li><strong>Zobacz mapę miejsc</strong>, w których potrzebna jest pomoc. Po kliknięciu w pinezkę na mapie zobaczysz zbiórkę. Możesz też <strong>przeglądać zbiórki</strong> w galerii pod mapą.</li>
+    <li>Po kliknięciu w zbiórkę zobaczysz <strong>historię uchodźców</strong> i listę rzeczy, jakie są im potrzebne.</li>
+    <li>Kliknij przycisk <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Przekaż pomoc</a> i <strong>opisz, co możesz zaoferować</strong>.</li>
+    <li>Możesz też wesprzeć autorów zbiórki <strong>dotacją finansową</strong>	— wystarczy wybrać kwotę i kliknąć <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Wpłać</a>.</li>
+    """
+
+# Need help section
+[needHelp]
+  [needHelp.heading]
+    other = 'Jak otrzymać pomoc? 5 kroków:'
+  [needHelp.list]
+    other = """
+    <li><strong>Zarejestruj się na platformie</strong>. Możesz to zrobić wygodnie za pomocą konta Facebook, Google lub swojego maila.</li>
+		<li>Kliknij przycisk <a href="https://planetheroes.pl/helpukraine/verified?auth=register" class="text-accent">Poproś o pomoc</a> znajdujący się na górze strony.</li>
+		<li><strong>Opisz sytuację uchodźców, którym pomagasz</strong>. Napisz, jakie wsparcie jest Ci potrzebne.</li>
+		<li><strong>Dodaj zdjęcia</strong>, które pomogą zobrazować Twoją zbiórkę.</li>
+		<li><strong>Opublikuj</strong> — Gotowe! Twoja zbiórka jest widoczna. Udostępnij ją w swoich social mediach, by zauważyło ją jak najwięcej osób!</li>
+    """
+  [needHelp.reminder]
+    other = "Pamiętaj! Gdy otrzymasz już część potrzebnych rzeczy lub pomocy, napisz o tym w komentarzu zbiórki!"
+
+# Take action
+[action]
+  [action.heading]
+    other = "Razem wspierajmy potrzebujących"
+  [action.btn]
+    other = "Zobacz zbiórki"
+
+# Footer nav
+[footerNav]
+  [footerNav.heading1]
+    other = 'Menu'
+  [footerNav.howitworks]
+    other = 'Jak to działa'
+  [footerNav.heading2]
+    other = 'Planet Heroes'
+  [footerNav.about]
+    other = 'O nas'
+  [footerNav.contact]
+    other = 'Kontakt'
+  [footerNav.heading3]
+    other = 'Blog'
+  [footerNav.article]
+    other = 'Wspieramy ukraińskich przyjaciół'
+

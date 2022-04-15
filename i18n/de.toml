@@ -1,0 +1,75 @@
+# English
+#
+
+# Hero slogan
+[slogan]
+  other = """
+  Helfen Sie ukrainischen Flüchtlingen?<br>
+  Lassen Sie sich von uns unterstützen!
+  """
+[tagline]
+  other = "Die erste Plattform, die ukrainische Flüchtlinge mit Menschen aus der ganzen Welt verbindet, die sie unterstützen wollen und können!"
+[patronat]
+  other = "Schirmherrschaft"
+[btnLeft]
+  other = "Ich will helfen"
+[btnLeftTagline]
+  other = "Sehen Sie, was benötigt wird oder senden Sie eine finanzielle Spende."
+[btnRight]
+  other = "Ich brauche Unterstützung"
+[btnRightTagline]
+  other = "Veröffentlichen Sie Ihre Sammlung und erhalten Sie Unterstützung von anderen."
+[partners]
+  other = 'Partners'
+# Helping section
+[helping]
+  [helping.heading]
+    other = "Wie kann ich helfen? In 4 Schritten:"
+  [helping.list]
+    other = """
+    <li><strong>Überprüfen Sie eine Karte von Orten</strong>, an denen Hilfe benötigt wird. Wenn Sie auf einen Pin in der Karte klicken, sehen Sie eine Sammlung. Sie können auch <strong>die Sammlungen in der Galerie</strong> unterhalb der Karte durchsuchen.</li>
+    <li>Wenn Sie auf eine Sammlung klicken, sehen Sie <strong>Geschichte der Flüchtlinge</strong> und eine Liste der Dinge, die sie brauchen.</li>
+    <li>Klicken Sie auf die <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Schaltfläche Hilfe</a> anbieten und <strong>beschreiben Sie, was Sie anbieten können</strong>.</li>
+    <li>Sie können die Autoren der Sammlung auch mit einer <strong>finanziellen Spende unterstützen</strong>	— wählen Sie einfach den Betrag aus und klicken Sie auf <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Spenden</a>.</li>
+    """
+
+# Need help section
+[needHelp]
+  [needHelp.heading]
+    other = "Wie erhalte ich Unterstützung? In 5 Schritten:"
+  [needHelp.list]
+    other = """
+    <li><strong>Registrieren Sie sich auf der Plattform</strong>. Dies können Sie bequem über Ihr Facebook- oder Google-Konto oder Ihre E-Mail-Adresse tun.</li>
+    <li>Klicken Sie oben auf der Seite auf die <a href="https://planetheroes.pl/helpukraine/verified?auth=register" class="text-accent">Schaltfläche Hilfe</a> anfordern.
+    </li>
+    <li><strong>Beschreiben Sie die Situation der Flüchtlinge denen Sie helfen</strong>. Schreiben Sie über die Unterstützung, die Sie benötigen.</li>
+    <li><strong>Fügen Sie Fotos</strong> hinzu, um Ihre Spendenaktionen zu&nbsp;veranschaulichen.</li>
+    <li><strong>Veröffentlichen</strong> — Fertig! Ihre Sammlung ist nun sichtbar. Teilen Sie es in Ihren sozialen Medien, um von so vielen Menschen wie möglich bemerkt zu werden!</li>
+    """
+  [needHelp.reminder]
+    other = "Vergiss nicht! Wenn Sie einige der Artikel oder Hilfe erhalten, schreiben Sie darüber in den Kommentaren Ihrer Sammlung!"
+
+# Take action
+[action]
+  [action.heading]
+    other = "Helfen wir den Flüchtlingen"
+  [action.btn]
+    other = "Siehe Sammlungen"
+
+# Footer nav
+[footerNav]
+  [footerNav.heading1]
+    other = "Menu"
+  [footerNav.howitworks]
+    other = "Wie es funktioniert"
+  [footerNav.heading2]
+    other = "Planet Heroes"
+  [footerNav.about]
+    other = "Über uns"
+  [footerNav.contact]
+    other = "Kontakt"
+  [footerNav.heading3]
+    other = "Blog"
+  [footerNav.article]
+    other = "Wir unterstützen ukrainische Freunde"
+

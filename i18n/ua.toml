@@ -1,0 +1,74 @@
+# Ukrainian
+#
+
+# Hero slogan
+[slogan]
+  other = """
+  Чи допомагаєте ви біженцям?<br>
+  Вам потрібна підтримка?
+  """
+[tagline]
+  other = "Перша платформа для з’єднання тих, хто потребує допомоги, з людьми з усього світу, які бажають і можуть їх підтримати!"
+[patronat]
+  other = "Patronat"
+[btnLeft]
+  other = "Я хочу допомогти"
+[btnLeftTagline]
+  other = "Подивіться, що потрібно, або надішліть фінансову пожертву."
+[btnRight]
+  other = "Мені потрібна підтримка"
+[btnRightTagline]
+  other = "Публікуйте свою колекцію та отримайте підтримку від інших."
+[partners]
+  other = 'Partners'
+# Helping section
+[helping]
+  [helping.heading]
+    other = "Как помочь? 4 шага:"
+  [helping.list]
+    other = """
+    <li><strong>Перегляньте карту місць, де є потреба в допомозі</strong>. Знайдіть збір для біженців у вашому регіоні.Коли ви клацнете на шпильці на карті, ви побачите колекцію. Ви також можете переглянути колекції в галереї під картою.</li>
+    <li>При натисканні на збір ви побачите його опис та перелік потреб.</li>
+    <li>Натисніть кнопку <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Запропонувати допомогу</a> та опишіть, що ви можете запропонувати або запитати про адресу, на яку ви можете доставити товари.</li>
+    <li>Бажаєте підтримати авторів збору фінансовим внеском? Ви можете здійснити оплату за допомогою карт Visa, Mastercard або Maestro. Оберіть суму підтримки та натисніть кнопку <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Підтримати</a>.</li>
+    """
+
+# Need help section
+[needHelp]
+  [needHelp.heading]
+    other = "Как получить поддержку? За 5 шагов:"
+  [needHelp.list]
+    other = """
+    <li><strong>Зареєструватися на платформі</strong>.Ви з легкістю можете це зробити, скориставшись обліковим записом Facebook або Google чи електронної пошти.</li>
+    <li>Натисніть кнопку <a href="https://planetheroes.pl/helpukraine/verified?auth=register" class="text-accent">Запит на допомогу</a> у верхній частині сторінки.</li>
+    <li><strong>Опишіть свої потреби</strong> - додайте фотографію, введіть назву та оберіть країну. Позначте своє місцезнаходження на карті.</li>
+    <li>ДОДАВАЙТЕ ФОТО, ЯКІ ІЛЮСТРУЮТЬ ВАШУ КОЛЕКЦІЮ.</li>
+    <li><strong>Опублікувати</strong> Готово! Ваш збір буде видимим. ВИ ТАКОЖ МОЖЕТЕ ПОДІЛИТИСЯ СВОЄЮ КОЛЕКЦІЄЮ В СОЦІАЛЬНИХ МЕРЕЖАХ.</li>
+    """
+  [needHelp.reminder]
+    other = "Пам'ятайте! Коли ви отримали деякі з необхідних речей або допоможіть, напишіть про це в коментарі до збірки!"
+
+# Take action
+[action]
+  [action.heading]
+    other = "Давайте разом підтримаємо нужденних!"
+  [action.btn]
+    other = "Допоможіть Україні"
+
+# Footer nav
+[footerNav]
+  [footerNav.heading1]
+    other = "Меню"
+  [footerNav.howitworks]
+    other = "Як це працює?"
+  [footerNav.heading2]
+    other = "Герої планети"
+  [footerNav.about]
+    other = "Про нас"
+  [footerNav.contact]
+    other = "контакт"
+  [footerNav.heading3]
+    other = "Блог"
+  [footerNav.article]
+    other = "Ми підтримуємо українських друзів"
+

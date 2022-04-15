@@ -1,0 +1,74 @@
+# English
+#
+
+# Hero slogan
+[slogan]
+  other = """
+  Are you helping Ukrainian&nbsp;refugees?<br>
+  Let us support you!
+  """
+[tagline]
+  other = "The first global platform connecting those in need with people who are willing to support them!"
+[patronat]
+  other = "Patronage"
+[btnLeft]
+  other = "I want to help"
+[btnLeftTagline]
+  other = "See what is needed or send a&nbsp;financial&nbsp;donation."
+[btnRight]
+  other = "I need support"
+[btnRightTagline]
+  other = "Publish  your collection and receive support from others."
+[partners]
+  other = 'Partners'
+# Helping section
+[helping]
+  [helping.heading]
+    other = "How to help? In 4 steps:"
+  [helping.list]
+    other = """
+    <li><strong>Check a map</strong> of locations where help is needed. When you click on a pin on the map you will see a collection. You can also<strong> browse collections</strong> in the gallery below the map.</li>
+		<li>When you click on a collection you will see <strong>the refugees' story</strong> and a list of things they need.</li>
+		<li>Click the <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Offer Help</a> button and<strong> describe what you can offer</strong>.</li>
+		<li>You can also support the authors of the collection with a <strong>financial donation</strong>	—&nbsp;just select the amount and click on <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Donate</a>.</li>
+    """
+
+# Need help section
+[needHelp]
+  [needHelp.heading]
+    other = "How to receive support? In&nbsp;5&nbsp;steps:"
+  [needHelp.list]
+    other = """
+    <li><strong>Register on the platform</strong>. You can do this conveniently using your Facebook or Google account or your email</li>
+    <li>Click on the <a href="https://planetheroes.pl/helpukraine/verified?auth=register" class="text-accent">Request Help</a> button at the top of the page.</li>
+    <li><strong>Describe the situation of the refugees you are helping</strong>. Write about the support you need.</li>
+    <li><strong>Add photos</strong> to help illustrate your fundraising efforts.</li>
+    <li><strong>Publish</strong> — Done! Your collection is now visible. Share it on your social media to get noticed by as many people as possible!</li>
+    """
+  [needHelp.reminder]
+    other = "Remember! When you receive some of the items	or help, write about it in the comments of your collection!"
+
+# Take action
+[action]
+  [action.heading]
+    other = "Let’s help them together!"
+  [action.btn]
+    other = "Help Ukraine"
+
+# Footer nav
+[footerNav]
+  [footerNav.heading1]
+    other = "Menu"
+  [footerNav.howitworks]
+    other = "How it's working"
+  [footerNav.heading2]
+    other = "Planet Heroes"
+  [footerNav.about]
+    other = "About us"
+  [footerNav.contact]
+    other = "Contact"
+  [footerNav.heading3]
+    other = "Blog"
+  [footerNav.article]
+    other = "We support Ukrainian friends"
+

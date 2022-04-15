@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="referrer" content="unsafe-url">
+	<title>{{ .Title }} 🇺🇦</title>
+	<meta name="description" content="{{ .Site.Params.description }}">
+	<meta property="og:title" content="{{ .Title }}" />
+	<meta property="og:description" content="{{ .Site.Params.description }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.herotohero/" />
+	<meta property="og:image" content="https://www.herotohero.eu/img/HH_preview.jpg" />
+	<meta property="og:site_name" content="herotohero.eu" />
+	<link rel="icon" href="/img/favicon.ico" sizes="any">
+	<link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="../bootstrap/bootstrap.min.css">
+	<link rel="stylesheet" href="../style.min.css">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150653606-1" type="b5b405229bae6f5c9680a1fc-text/javascript"></script>
+	<script type="b5b405229bae6f5c9680a1fc-text/javascript">
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-150653606-1');
+	</script>
+	<script>
+		document.addEventListener('click', function(ev){
+			if (!ev.target.closest('a.btn')) return;
+			dataLayer.push({
+				'event': 'clickButton',
+				'eventCategory': ev.target.innerText,
+				'eventAction': window.location.href
+			});
+		}, false);
+	</script>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-MRTD2VQ');</script>
+	<!-- End Google Tag Manager -->
+</head>

@@ -1,0 +1,34 @@
+<footer>
+  <div class="partners d-flex align-items-center">
+    <div class="d-flex flex-wrap justify-content-around align-items-center container py-5">
+      <img src="/img/PH_logo_white.svg" alt="Alternative Planet Heroes Logo">
+      <img src="/img/one_logo.svg" alt="Group One Logo">
+      <img src="/img/GRID_logo_white.svg" alt="Grid Logo">
+      <img style="flex-basis: auto;" src="/img/Amazon.svg" alt="AWS Logo">
+    </div>
+  </div>
+  <div class="py-4 d-none d-sm-block" style="background-color: #18a0fb">
+    <div class="container d-flex justify-content-start">
+      <div class="mr-5">
+        <h4>{{ T "footerNav.heading1"}}</h4>
+        <a href="https://planetheroes.pl/articles/how-to-help-ukraine">{{ T "footerNav.howitworks"}}</a>
+      </div>
+      <div class="mr-5">
+        <h4>{{ T "footerNav.heading2"}}</h4>
+        <ul>
+          <li><a href="https://planetheroes.pl/articles/common/help-ukraine#common">{{ T "footerNav.about"}}</a></li>
+          <li><a href="mailto:support@planetheroes.app?subject=Pomoc%20Ukrainie" target="_self">{{ T "footerNav.contact"}}</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>{{ T "footerNav.heading3"}}</h4>
+        <a href="https://planetheroes.pl/articles/common/help-ukraine#common">🇺🇦 {{ T "footerNav.article"}}</a>
+      </div>
+    </div>
+  </div>
+  <div class="py-md-3 pt-3 copyright" style="background-color: #008afc">
+    <p class="container text-center text-sm-left">
+      <a href="https://planetheroes.pl/terms-of-conditions">{{ .Site.Copyright| safeHTML }}</a>
+    </p>
+  </div>
+</footer>

@@ -1,0 +1,75 @@
+# Slovakian
+#
+
+# Hero slogan
+[slogan]
+  other = """
+  Pomáhate ukrajinským utečencom?<br>
+  Dovoľte nám, aby sme vás podporili!
+  """
+[tagline]
+  other = 'Prvá platforma spája ukrajinských utečencov s ľuďmi z celého sveta, ktorí ich chcú a môžu podporovať!'
+[patronat]
+  other = "Patronat akcji"
+[btnLeft]
+  other = 'Chcem pomôcť'
+[btnLeftTagline]
+  other = 'Pozrite sa, čo je potrebné, alebo pošlite finančný dar.'
+[btnRight]
+  other = 'Potrebujem podporu'
+[btnRightTagline]
+  other = 'Zverejnite svoju zbierku a získajte podporu od ostatných.'
+[partners]
+  other = 'Partnerzy akcji'
+# Helping section
+[helping]
+  [helping.heading]
+    other = 'Ako pomôcť? V 4 krokoch:'
+  [helping.list]
+    other = """
+    <li><strong>Pozri si mapu miest</strong>, kde je potrebná pomoc. Nájdi zbierku pre utečencov vo vašej oblasti. Po kliknutí na špendlík na mape sa zobrazí zbierka. Zbierky si môžete prezerať aj v galérii pod mapou.</li>
+    <li>Po kliknutí na zbierku sa zobrazí jej popis a zoznam potrieb.</li>
+    <li>Kliknite na tlačidlo <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Ponúkať pomoc</a> a<strong> opíšte, čo môžete ponúknuť</strong>.</li>
+    <li>Autorov zbierky môžete podporiť aj <strong>finančným darom</strong>	— stačí vybrať sumu a kliknúť na <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Darovať</a>.</li>
+    """
+
+# Need help section
+[needHelp]
+  [needHelp.heading]
+    other = 'Ako získať podporu? V&nbsp;5&nbsp;krokoch:'
+  [needHelp.list]
+    other = """
+    <li><strong>Zaregistrujte sa na platforme</strong>. Môžete to urobiť jednoducho pomocou svojho účtu na Facebooku alebo Google alebo prostredníctvom e-mailu.</li>
+    <li>Kliknite na tlačidlo <a href="https://planetheroes.pl/helpukraine/verified?auth=register" class="text-accent">Vyžiadať pomoc</a> v hornej časti stránky.
+    </li>
+    <li><strong>Opíšte situáciu utečencov, ktorým pomáhate</strong>, a uveďte, aký druh pomoci by bol potrebný. Uveďte zoznam vecí, ktoré potrebujú.</li>
+    <li><strong>Pridajte fotky</strong>. Pomôže to zvýšiť záujem ľudí.</li>
+    <li><strong>Zverejniť</strong>. Hotovo! Vaša zbierka bude viditeľná.zdieľajte ho na sociálnych sieťach, aby ste oslovili viac ľudí.</li>
+    """
+  [needHelp.reminder]
+    other = "Pamätajte! Keď dostanete niektoré z položiek alebo pomoc, napíšte o tom do komentárov k vašej zbierke!"
+
+# Take action
+[action]
+  [action.heading]
+    other = "Spoločne podporme tých, ktorí to potrebujú!"
+  [action.btn]
+    other = "Pomôžte Ukrajine"
+
+# Footer nav
+[footerNav]
+  [footerNav.heading1]
+    other = 'Menu'
+  [footerNav.howitworks]
+    other = 'Ako to funguje'
+  [footerNav.heading2]
+    other = 'Planet Heroes'
+  [footerNav.about]
+    other = 'O nás'
+  [footerNav.contact]
+    other = 'Kontakt'
+  [footerNav.heading3]
+    other = 'Blog'
+  [footerNav.article]
+    other = 'Podporujeme ukrajinských priateľov'
+
