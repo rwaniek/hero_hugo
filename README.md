@@ -3,7 +3,7 @@
 <p>Built on Hugo ssg</p>
 ## Links
 
-- [Repo](https://github.com/rwaniek/herotohero "Hero to Hero Repo")
+- [Repo](https://github.com/rwaniek/hero_hugo "Hero to Hero Repo")
 
 - [Live](<https://herotohero.eu/> "Live View")
 
