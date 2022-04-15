@@ -16,3 +16,4 @@
 - CSS
 - Gulp
 - SCSS
+- Hugo
