@@ -7,48 +7,48 @@ copyright = '© All right reserved. Planet Heroes 2022'
     title = 'Planet Heroes pomaga Ukrainie!'
     description = 'Pomóż nam wspierać uchodźców z Ukrainy, którzy szukają u nas schronienia! Kliknij i zobacz, jak pomóc.'
     languageName = "Polish"
+    languageCode = "pl"
     weight = 1
-    [languages.pl.params]
-      path = "pl.svg"
+    path = "pl.svg"
     
   [languages.en]
     title = 'Planet Heroes help Ukraine'
     description = 'Help Ukrainian refugees that fled their home - click and support them!'
     languageName = "English"
+    languageCode = "en"
     weight = 2
-    [languages.en.params]
-      path = "uk.svg"
+    path = "uk.svg"
 
   [languages.ua]
     title = "Planet Heroes допоможи Україні"
     description = "Допоможіть українським біженцям, які втекли з дому - натисніть і підтримайте їх"
     languageName = "Ukrainian"
+    languageCode = "uk"
     weight = 3
     copyright = "© Усі права захищено. Планета Герої 2022"
-    [languages.ua.params]
-      path = "ua.svg"
+    path = "ua.svg"
   
   [languages.sk]
     title = "Planet Heroes pomáha Ukrajine"
     description = "Pomôžte ukrajinským utečencom, ktorí utiekli zo svojich domovov – kliknite a podporte ich!"
     languageName = "Slovakian"
+    languageCode = "sk"
     weight = 4
-    [languages.sk.params]
-      path = "sk.svg"
+    path = "sk.svg"
 
   [languages.cz]
     title = "Planet Heroes pomáhají Ukrajině"
     description = "Pomozte ukrajinským uprchlíkům, kteří uprchli ze svých domovů – klikněte a podpořte je!"
     languageName = "Czech"
+    languageCode = "cz"
     weight = 5
-    [languages.cz.params]
-      path = "cz.svg"
+    path = "cz.svg"
 
   [languages.de]
     title = "Planet Heroes helfen der Ukraine"
     description = "Helfen Sie ukrainischen Flüchtlingen, die aus ihrer Heimat geflohen sind - klicken und unterstützen"
     languageName = "German"
+    languageCode = "de"
     weight = 6
-    [languages.de.params]
-      path = "de.svg"
+    path = "de.svg"
    
