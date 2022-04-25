@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/ua/categories/</loc>
+    <loc>/uk/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -30,11 +30,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="/ua/categories/"
+                hreflang="uk"
+                href="/uk/categories/"
                 />
   </url><url>
-    <loc>/ua/</loc>
+    <loc>/uk/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -62,11 +62,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="/ua/"
+                hreflang="uk"
+                href="/uk/"
                 />
   </url><url>
-    <loc>/ua/tags/</loc>
+    <loc>/uk/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -94,8 +94,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="/ua/tags/"
+                hreflang="uk"
+                href="/uk/tags/"
                 />
   </url>
 </urlset>

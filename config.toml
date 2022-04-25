@@ -19,7 +19,7 @@ copyright = '© All right reserved. Planet Heroes 2022'
     weight = 2
     path = "uk.svg"
 
-  [languages.ua]
+  [languages.uk]
     title = "Planet Heroes допоможи Україні"
     description = "Допоможіть українським біженцям, які втекли з дому - натисніть і підтримайте їх"
     languageName = "Ukrainian"
