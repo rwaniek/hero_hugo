@@ -8,6 +8,12 @@
 
   'use strict'; 
 
+
+  /**
+   * 
+   * @param {Direct parent of carousel grid element} el 
+   */
+
   function Carousel (el) {
     const container = el;
     const wrapper = el.firstElementChild;
@@ -27,8 +33,7 @@
       }
       else {
 
-        let scrollLenght = slidesArr[0].offsetWidth;
-        // console.log(scrollLenght);
+        let scrollLenght = firstSlide.offsetWidth;
         
         function scrolling() {
     
@@ -44,8 +49,6 @@
             container.scrollTo(0, 100);
             counter = 0;
           }
-          
-          // console.log(counter);
           
         };
 
