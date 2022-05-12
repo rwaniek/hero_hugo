@@ -32,6 +32,8 @@
     <li>Kliknite na tlačidlo <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Ponúkať pomoc</a> a<strong> opíšte, čo môžete ponúknuť</strong>.</li>
     <li>Autorov zbierky môžete podporiť aj <strong>finančným darom</strong>	— stačí vybrať sumu a kliknúť na <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Darovať</a>.</li>
     """
+  [helping.btn]
+    other = "Ponúkať pomoc"
 
 # Need help section
 [needHelp]
@@ -46,6 +48,8 @@
     <li><strong>Pridajte fotky</strong>. Pomôže to zvýšiť záujem ľudí.</li>
     <li><strong>Zverejniť</strong>. Hotovo! Vaša zbierka bude viditeľná.zdieľajte ho na sociálnych sieťach, aby ste oslovili viac ľudí.</li>
     """
+  [needHelp.btn]
+    other = "Vyžiadať pomoc"
   [needHelp.reminder]
     other = "Pamätajte! Keď dostanete niektoré z položiek alebo pomoc, napíšte o tom do komentárov k vašej zbierke!"
 

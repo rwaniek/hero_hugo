@@ -32,6 +32,8 @@
     <li>Kliknij przycisk <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Przekaż pomoc</a> i <strong>opisz, co możesz zaoferować</strong>.</li>
     <li>Możesz też wesprzeć autorów zbiórki <strong>dotacją finansową</strong>	— wystarczy wybrać kwotę i kliknąć <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Wpłać</a>.</li>
     """
+  [helping.btn]
+    other = "Przekaż pomoc"
 
 # Need help section
 [needHelp]
@@ -45,6 +47,8 @@
 		<li><strong>Dodaj zdjęcia</strong>, które pomogą zobrazować Twoją zbiórkę.</li>
 		<li><strong>Opublikuj</strong> — Gotowe! Twoja zbiórka jest widoczna. Udostępnij ją w swoich social mediach, by zauważyło ją jak najwięcej osób!</li>
     """
+  [needHelp.btn]
+    other = "Poproś o pomoc"
   [needHelp.reminder]
     other = "Pamiętaj! Gdy otrzymasz już część potrzebnych rzeczy lub pomocy, napisz o tym w komentarzu zbiórki!"
 

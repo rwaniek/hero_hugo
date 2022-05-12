@@ -29,9 +29,11 @@
     other = """
     <li><strong>Überprüfen Sie eine Karte von Orten</strong>, an denen Hilfe benötigt wird. Wenn Sie auf einen Pin in der Karte klicken, sehen Sie eine Sammlung. Sie können auch <strong>die Sammlungen in der Galerie</strong> unterhalb der Karte durchsuchen.</li>
     <li>Wenn Sie auf eine Sammlung klicken, sehen Sie <strong>Geschichte der Flüchtlinge</strong> und eine Liste der Dinge, die sie brauchen.</li>
-    <li>Klicken Sie auf die <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Schaltfläche Hilfe</a> anbieten und <strong>beschreiben Sie, was Sie anbieten können</strong>.</li>
+    <li>Klicken Sie auf die Schaltfläche <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Hilfe anbieten</a> und <strong>beschreiben Sie, was Sie anbieten können</strong>.</li>
     <li>Sie können die Autoren der Sammlung auch mit einer <strong>finanziellen Spende unterstützen</strong>	— wählen Sie einfach den Betrag aus und klicken Sie auf <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Spenden</a>.</li>
     """
+  [helping.btn]
+    other = "Hilfe anbieten"
 
 # Need help section
 [needHelp]
@@ -40,12 +42,14 @@
   [needHelp.list]
     other = """
     <li><strong>Registrieren Sie sich auf der Plattform</strong>. Dies können Sie bequem über Ihr Facebook- oder Google-Konto oder Ihre E-Mail-Adresse tun.</li>
-    <li>Klicken Sie oben auf der Seite auf die <a href="https://planetheroes.pl/helpukraine/verified?auth=register" class="text-accent">Schaltfläche Hilfe</a> anfordern.
+    <li>Klicken Sie oben auf der Seite auf die Schaltfläche <a href="https://planetheroes.pl/helpukraine/verified?auth=register" class="text-accent">Hilfe anfordern</a>.
     </li>
     <li><strong>Beschreiben Sie die Situation der Flüchtlinge denen Sie helfen</strong>. Schreiben Sie über die Unterstützung, die Sie benötigen.</li>
     <li><strong>Fügen Sie Fotos</strong> hinzu, um Ihre Spendenaktionen zu&nbsp;veranschaulichen.</li>
     <li><strong>Veröffentlichen</strong> — Fertig! Ihre Sammlung ist nun sichtbar. Teilen Sie es in Ihren sozialen Medien, um von so vielen Menschen wie möglich bemerkt zu werden!</li>
     """
+  [needHelp.btn]
+    other = "Hilfe anfordern"
   [needHelp.reminder]
     other = "Vergiss nicht! Wenn Sie einige der Artikel oder Hilfe erhalten, schreiben Sie darüber in den Kommentaren Ihrer Sammlung!"
 

@@ -32,6 +32,8 @@
 		<li>Click the <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Offer Help</a> button and<strong> describe what you can offer</strong>.</li>
 		<li>You can also support the authors of the collection with a <strong>financial donation</strong>	—&nbsp;just select the amount and click on <a href="https://planetheroes.pl/helpukraine/verified" class="text-primary">Donate</a>.</li>
     """
+  [helping.btn]
+    other = "Offer Help"
 
 # Need help section
 [needHelp]
@@ -45,6 +47,8 @@
     <li><strong>Add photos</strong> to help illustrate your fundraising efforts.</li>
     <li><strong>Publish</strong> — Done! Your collection is now visible. Share it on your social media to get noticed by as many people as possible!</li>
     """
+  [needHelp.btn]
+    other = "Request Help"
   [needHelp.reminder]
     other = "Remember! When you receive some of the items	or help, write about it in the comments of your collection!"
 
