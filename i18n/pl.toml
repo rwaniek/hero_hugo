@@ -62,10 +62,11 @@
 # Articles
 [airbnb]
   [airbnb.heading]
-    other = "We join forces with Airbnb.org to support refugees and their hosts"
+    other = "Łączymy siły z Airbnb.org, by pomagać uchodźcom i ich europejskim gospodarzom"
   [airbnb.paragraph]
     other = """
-    <p>If you need accommodation as a refugee, you can apply to receive a voucher for free, short-term housing. If you host refugees at your place, you can become an Airbnb Host. <br><strong><a href="">Learn more</a></strong></p>
+    <p>Jeśli jesteś uchodźcą i potrzebujesz zakwaterowania, możesz otrzymać voucher na bezpłatny pobyt krótkoterminowy. Jeśli przyjmujesz uchodźców u siebie, możesz zostać Gospodarzem Airbnb.
+ <br><strong><a href="https://planetheroes.pl/articles/airbnb">Dowiedz się więcej!</a></strong></p>
     """
 # Footer organizers
 [organizers]

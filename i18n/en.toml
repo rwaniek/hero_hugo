@@ -65,7 +65,7 @@
     other = "We join forces with Airbnb.org to support refugees and their hosts"
   [airbnb.paragraph]
     other = """
-    <p>If you need accommodation as a refugee, you can apply to receive a voucher for free, short-term housing. If you host refugees at your place, you can become an Airbnb Host. <br><strong><a href="">Learn more</a></strong></p>
+    <p>If you need accommodation as a refugee, you can apply to receive a voucher for free, short-term housing. If you host refugees at your place, you can become an Airbnb Host. <br><strong><a href="https://planetheroes.pl/articles/airbnb">Learn more</a></strong></p>
     """
 
 # Footer organizers
