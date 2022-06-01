@@ -79,6 +79,8 @@
     other = 'Menu'
   [footerNav.howitworks]
     other = 'Jak to działa'
+  [footerNav.faq]
+    other = 'FAQ'
   [footerNav.heading2]
     other = 'Planet Heroes'
   [footerNav.about]
