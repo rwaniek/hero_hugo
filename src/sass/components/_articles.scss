@@ -1,0 +1,22 @@
+.articles {
+  background-color: $accent-color;
+
+  h3 {
+    color: white;
+  }
+
+  a {
+    color: black;
+  }
+
+  img {
+    max-width: 340px;
+    flex-grow: 1;
+  }
+
+  img + div {
+    flex-basis: 300px;
+    flex-grow: 999;
+  }
+
+}
